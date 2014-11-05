@@ -1,0 +1,30 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Ato Magyarit",
+    "longName": "TextWatch_HU",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/gotham_bold_36.ttf",
+                "name": "FONT_GOTHAM_BOLD_36",
+                "type": "font"
+            },
+            {
+                "file": "fonts/gotham_light_31.ttf",
+                "name": "FONT_GOTHAM_LIGHT_31",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "TextWatch_HU",
+    "uuid": "496e04ad-132a-48ab-b165-7ff4a99872d2",
+    "versionCode": 2,
+    "versionLabel": "2.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
