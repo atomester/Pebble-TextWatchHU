@@ -21,9 +21,9 @@
         ]
     },
     "shortName": "TextWatch_HU",
-    "uuid": "496e04ad-132a-48ab-b165-7ff4a99872d2",
+    "uuid": "2a7c325f-f003-4975-b9d0-3a37c3723c7c",
     "versionCode": 2,
-    "versionLabel": "2.1",
+    "versionLabel": "1.0",
     "watchapp": {
         "watchface": true
     }

@@ -30,7 +30,7 @@ static const char* const TEENS[] ={
 static const char* const TENS[] = {
   "",
   "tiz",
-  "husz/on",
+  "husz*n",
   "harminc",
   "negyven",
   "otven",
