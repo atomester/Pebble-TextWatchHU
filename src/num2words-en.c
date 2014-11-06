@@ -16,15 +16,15 @@ static const char* const ONES[] = {
 
 static const char* const TEENS[] ={
   "",
-  "tizenegy",
-  "tizenketto",
-  "tizen3",
-  "tizen4",
+  "tizen egy",
+  "tizen ketto",
+  "tizen harom",
+  "tizen negy",
   "tizenot",
   "tizenhat",
   "tizenhet",
-  "tizen8",
-  "tizen9"
+  "tizen nyolc",
+  "tizen kilenc"
 };
 
 static const char* const TENS[] = {
